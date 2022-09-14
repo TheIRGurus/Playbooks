@@ -1,5 +1,5 @@
 # FN-Utilities Playbooks
-These playbooks are using Utility Functions for SOAR 2.1.1 (AKA fn_utitlies). 
+These playbooks are using Utility Functions for SOAR 2.1.1 (AKA fn_utitlies). These playbooks are specifically designed to enhance the data within your incident instead of a SOP Style Playbook.
 
 ### NMAP Scan
 This playbooks takes some additional setup. The steps below will help outline the changes needed within the fn_utilities app.config file.

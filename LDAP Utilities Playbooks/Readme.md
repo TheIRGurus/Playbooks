@@ -6,12 +6,12 @@ This Playbook will require the following DataTable be created, of course this ch
 
 DataTable Name: LDAP Data | API Name: ldap_data
 
-| Column Names | API Names     |
-| ------------ | ------------- |
-| Username     | dt_username   |
-| Name         | dt_user_name  |
-| Job title    | dt_job_title  |
-| Department   | dt_department |
-| Email        | dt_email      |
-| Location     | dt_location   |
-| Manager      | dt_manager    |
+| Column Names | API Names     | Field Type |
+| ------------ | ------------- | ---------- |
+| Username     | dt_username   | Text       |
+| Name         | dt_user_name  | Text       |
+| Job title    | dt_job_title  | Text       |
+| Department   | dt_department | Text       |
+| Email        | dt_email      | Text       |
+| Location     | dt_location   | Text       |
+| Manager      | dt_manager    | Text       |

@@ -1,8 +1,11 @@
 # Task Tracking
 This is a playbook designed to easily allow tracking of Task Completion as well as assigning tasks to the analyst that closed the task if task was unassigned.
 
+## Integration Dependencies
+There are no dependencies for the .res export.
+
 ### Task Tracker
-This playbook takes some additional setup. The steps below will help outline the Data Table that will be needed to created to properly use this playbook.
+This playbook takes some additional setup unless using the .res file. The steps below will help outline the Data Table that will be needed to created to properly use this playbook.
 
 DataTable Name: Task History | API Name: task_history
 

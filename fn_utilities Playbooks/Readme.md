@@ -22,4 +22,5 @@ This playbook takes some additional setup. The steps below will help outline the
 	- Create the commands that will be running for the NMAP Playbook; those commands are listed below:
 	
 		>nmap = (nmap {{shell_param1}} {{shell_param2}} {{shell_param3}})
+		>
 		>base64 = (base64 {{shell_param1}} -w 0)

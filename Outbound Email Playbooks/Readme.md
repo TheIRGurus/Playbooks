@@ -4,4 +4,4 @@ These playbooks are designed to easily allow an analyst to establish communicati
 ## Integration Dependencies
 There is 1 dependency for the .res export.
 
-- [Outbound Email for SOAR](https://exchange.xforce.ibmcloud.com/hub/extension/caafba4e4f6d130e7db30ed4d5e53504) version 2.0.2
+- [Outbound Email for SOAR](https://exchange.xforce.ibmcloud.com/hub/extension/caafba4e4f6d130e7db30ed4d5e53504) version 2.1.0
